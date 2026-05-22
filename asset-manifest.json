@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactPage_to_AWS_S3/static/css/main.735da4c9.css",
-    "main.js": "/ReactPage_to_AWS_S3/static/js/main.3dd32c62.js",
-    "index.html": "/ReactPage_to_AWS_S3/index.html",
-    "main.735da4c9.css.map": "/ReactPage_to_AWS_S3/static/css/main.735da4c9.css.map",
-    "main.3dd32c62.js.map": "/ReactPage_to_AWS_S3/static/js/main.3dd32c62.js.map"
+    "main.css": "/static/css/main.735da4c9.css",
+    "main.js": "/static/js/main.3dd32c62.js",
+    "index.html": "/index.html",
+    "main.735da4c9.css.map": "/static/css/main.735da4c9.css.map",
+    "main.3dd32c62.js.map": "/static/js/main.3dd32c62.js.map"
   },
   "entrypoints": [
     "static/css/main.735da4c9.css",
